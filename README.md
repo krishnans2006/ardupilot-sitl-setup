@@ -21,3 +21,5 @@ Run SITL:
 ```bash
 Tools/autotest/sim_vehicle.py --no-mavproxy -v ArduPlane
 ```
+
+Or, use the simulation start script found at [tj-uav/GroundStation](https://github.com/tj-uav/GroundStation/blob/dev/scripts/run-sim.sh).
